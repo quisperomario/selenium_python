@@ -1,7 +1,7 @@
 Projects of Selenium
 
 ## Problem
-git push origin main
+* git push origin main
 
  ! [rejected]        main -> main (non-fast-forward)
 error: failed to push some refs to 'https://github.com/quisperomario/selenium_python.git'
@@ -11,7 +11,7 @@ hint: 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 ## The solutions is execute the commands:
-git pull origin main --allow-unrelated-histories
-git push origin main
+* git pull origin main --allow-unrelated-histories
+* git push origin main
 
 
