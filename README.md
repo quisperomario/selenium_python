@@ -10,7 +10,7 @@ hint: its remote counterpart. Integrate the remote changes (e.g.
 hint: 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
-The link solution: <a href = "https://komodor.com/learn/how-to-fix-fatal-refusing-to-merge-unrelated-histories-error/" target="_blank">https://komodor.com/learn/how-to-fix-fatal-refusing-to-merge-unrelated-histories-error/</a>
+The link solution: <a href = "https://komodor.com/learn/how-to-fix-fatal-refusing-to-merge-unrelated-histories-error/" target="_blank">Link</a>
 
 ## The solutions is execute the commands:
 * git pull origin main --allow-unrelated-histories
