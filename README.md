@@ -16,4 +16,8 @@ The link solution: <a href = "https://komodor.com/learn/how-to-fix-fatal-refusin
 * git pull origin main --allow-unrelated-histories
 * git push origin main
 
+#### Code:
+
+- [00 first_example.py](https://github.com/quisperomario/selenium_python/blob/main/projects/selenium_prueba_01.py)
+
 
